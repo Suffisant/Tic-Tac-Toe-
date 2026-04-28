@@ -24,15 +24,16 @@ Automated Win Detection: Instantly recognizes wins across rows, columns, and dia
 Computer Logic: Features basic automated move selection for the computer opponent.
 
 🕹 How to Play
-The game is played on a 3x3 grid.
 
-Players are assigned X or O.
+1. The game is played on a 3x3 grid.
 
-On your turn, enter the number or coordinates corresponding to the square where you want to place your mark.
+2. Players are assigned X or O.
 
-The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+3. On your turn, enter the number or coordinates corresponding to the square where you want to place your mark.
 
-If all 9 squares are full and no player has 3 marks in a row, the game ends in a draw.
+4. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+
+5. If all 9 squares are full and no player has 3 marks in a row, the game ends in a draw.
 
 **Author**
 
